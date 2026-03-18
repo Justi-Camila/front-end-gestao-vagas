@@ -88,5 +88,5 @@ A aplicação estará disponível geralmente em `http://localhost:8081` (ou a po
 
 
 ### 🔗 Link para o repositório do Backend
-``` [Justi-Camila/projeto-gestao-vagas](https://github.com/Justi-Camila/gestao-vagas)
-```
+[Justi-Camila/projeto-gestao-vagas](https://github.com/Justi-Camila/gestao-vagas)
+
